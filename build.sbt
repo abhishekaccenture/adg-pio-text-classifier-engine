@@ -4,4 +4,4 @@ libraryDependencies ++= Seq(
   "org.apache.spark"        %% "spark-core"               % "1.4.1" % "provided",
   "org.apache.spark"        %% "spark-mllib"              % "1.4.1" % "provided",
   "org.apache.lucene"        % "lucene-core"              % "6.5.1")
- enablePlugins(JavaAppPackaging)
+enablePlugins(JavaAppPackaging)
