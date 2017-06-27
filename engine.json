@@ -4,7 +4,7 @@
   "engineFactory": "org.example.textclassification.TextClassificationEngine",
   "datasource": {
     "params": {
-      "appName": "MyTextApp"
+      "appName": "MyApp1"
     }
   },
   "preparator": {
