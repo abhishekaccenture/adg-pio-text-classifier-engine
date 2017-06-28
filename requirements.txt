@@ -1,0 +1,5 @@
+nltk==3.2.4
+predictionio==0.9.8
+pytz==2017.2
+six==1.10.0
+textblob==0.12.0
